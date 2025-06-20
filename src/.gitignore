@@ -1,2 +1,5 @@
+# Ignore config file
+/config.ts
+
 # Ignore node_modules
 node_modules/
