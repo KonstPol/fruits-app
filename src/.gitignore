@@ -1,2 +1,5 @@
+# Ignore the config file
+src/config.js
+
 # Ignore node_modules
 node_modules/
