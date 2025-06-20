@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App .container {
+  display: flex;
+  gap: 3rem;
+  width: 85%;
+  margin: 50px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}

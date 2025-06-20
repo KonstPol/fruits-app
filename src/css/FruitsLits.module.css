@@ -1,0 +1,22 @@
+.buttonViewWrapper {
+    display: flex;
+    gap: 3rem
+}
+
+.fruitsList {
+    width: 300px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.fruitsList li {
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    padding: 5px;
+}
+
+.fruitsList li button {
+    min-width: 85px;
+}

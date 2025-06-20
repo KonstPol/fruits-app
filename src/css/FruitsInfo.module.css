@@ -1,0 +1,19 @@
+.rightColumn {
+    display: flex;
+    width: 100%;
+}
+
+table {
+    font-size: 1rem;
+}
+
+.chartWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50%;
+    width: 100%;
+    background: white;
+    border-radius: .5rem;
+    padding: 1rem;
+}
